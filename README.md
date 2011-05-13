@@ -7,8 +7,9 @@ Which doesn't nessecarily improve the situation. So I had a bit of a look around
 
 ## Running
 You need Python, anything recent will do, and you need BeautifulSoup.
-* http://www.python.org/download/
-* http://www.crummy.com/software/BeautifulSoup/#Download
+
+*   http://www.python.org/download/
+*   http://www.crummy.com/software/BeautifulSoup/#Download
 
 I've coded it so that it should run equally well on Windows and Linux.
 
